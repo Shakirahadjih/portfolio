@@ -17,7 +17,7 @@ header {
 
 
 .intro {
-    font-family: Helvetica Neue;
+    font-family: Helvetica Neue, Arial Narrow;
     font-weight: bold;
     font-size: 25px;
 }
@@ -84,14 +84,14 @@ span {
     text-decoration: none;
     color: black;
     margin-top: 8px;
-    font-family: helvetica Neue;
+    font-family: helvetica Neue, Arial Narrow;
     font-weight: 400;
 }
 
 h4{
     font-size: 25px;
     color: black;
-    font-family: helvetica Neue;
+    font-family: helvetica Neue, Arial Narrow;
     margin-bottom: 0px;
     text-decoration: underline;
 
@@ -146,7 +146,7 @@ footer {
 }
 
 footer p{
-    font-family: Helvetica Neue;
+    font-family: Helvetica Neue, Arial Narrow;
     font-weight: bold;
     font-size: 20px;
     color: black;
@@ -191,7 +191,7 @@ position: relative;    font-family: hoss round;
 }
 
 .header2-pf {
-    font-family: Helvetica Neue;
+    font-family: Helvetica Neue, Arial Narrow;
     font-size: 30px;
     font-weight: 600;
     margin-bottom: 2%;
@@ -199,7 +199,7 @@ position: relative;    font-family: hoss round;
 }
 
 .subscr-pf {
-    font-family: Helvetica Neue;
+    font-family: Helvetica Neue, Arial Narrow;
     font-size: 25px;
     margin-right: 25% ;
     margin-left: 25% ;
@@ -217,7 +217,7 @@ position: relative;    font-family: hoss round;
 }
 
 .p {
-    font-family: Helvetica Neue;
+    font-family: Helvetica Neue, Arial Narrow;
     font-weight: 400;
     font-size: 25px;
     line-height: 35px;
@@ -225,7 +225,7 @@ position: relative;    font-family: hoss round;
 
 .links {
     text-decoration:underline ;
-    font-family: Helvetica Neue;
+    font-family: Helvetica Neue, Arial Narrow;
     font-weight: 400;
     font-size: 25px;
     display: block;
