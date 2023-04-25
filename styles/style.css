@@ -125,12 +125,14 @@ a:active {
     position: fixed;
     margin: 40px;
     bottom:0;
+    max-width: 8%;
 }
 
 .floater img {
     display: block;
     margin-top: 7px;
-    width: 10%;
+    width: 35%;
+    object-fit: cover;
 }
 
 
@@ -320,6 +322,14 @@ video {
     .hidden {
         display:block;
      }
+    
+     .gone {
+        display: none;
+     }
+    
+    .floater img {
+    width: 90%;
+    }
 
     footer {
         margin: 0px 15px;
